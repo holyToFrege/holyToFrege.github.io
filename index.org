@@ -1,0 +1,17 @@
+#+TITLE: this is reveal test
+#+AUTHOR:    hoyoul park
+#+EMAIL:     holy_frege@fastmail.com
+#+DATE: 
+
+#+OPTIONS:  toc:nil  d:nil ^:nil num:nil
+#+REVEAL_INIT_OPTIONS: transition: 'linear'
+#+REVEAL_THEME: moon
+#+REVEAL_TITLE_SLIDE: <h2>%t <br> <h4>%a(%e)
+#+REVEAL_ROOT:  https://cdn.jsdelivr.net/npm/reveal.js
+#+REVEAL_REVEAL_JS_VERSION:  4
+#+REVEAL_EXTRA_CSS: ./modifications.css
+* Reveal test
+Vestibulum convallis, lorem a tempus semper, dui dui euismod elit,
+vitae placerat urna tortor vitae lacus.
+* test2
+한국어 테스트 조조와 유비, 그리고 사마의 흴체어 머리
