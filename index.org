@@ -18,6 +18,7 @@ Career path는 [ /_오른쪽 화살표_/ ].
 *** 영상
 @@html:<video controls width="500" height="300" src="./misc/myblog.mp4"></video>@@
 *** 사용된 기술 및 참고사항.
+- site: https://braindump.frege2godel.me/?stackedPages=%2F
 - github: https://github.com/hoyoul/holy-brain
 - Emacs Lisp, org mode, css,html,js, d3.js
 - description: org mode에서 literate programming을 web까지
@@ -50,7 +51,8 @@ Career path는 [ /_오른쪽 화살표_/ ].
 자세한 내용은 /아래 화살표/.
 ** specification
 - 전공: 컴퓨터공학과
-- 했던일: computer engineering과 computer science의 기본기를 익힘.
+- 했던일: computer engineering과 computer science의 course를 들었으며,@@html:<br>@@
+  재학중에 아르바이트로 APM(Apachie,Php,Mysql)관련 project을 많이 했었습니다.
 * Unversity of California, Irvine
 자세한 내용은 /아래 화살표/.
 ** 증명서류
@@ -62,8 +64,7 @@ Career path는 [ /_오른쪽 화살표_/ ].
 ** specification
 - 전공: computer science (master 과정)
 - 했던일: 1 quarter course work.
-- ps: 리먼 브라더스 사태로 돈이 다 날라감. 학비및 생활비 부족으로
-  UNM으로 이동
+- ps: 학비및 생활비 부족으로 UNM으로 이동(리먼 브러더스 사태)
 * University of New Mexico
 자세한 내용은 /아래 화살표/.
 ** 증명서류
