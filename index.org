@@ -17,7 +17,8 @@ Career path는 [ /_오른쪽 화살표_/ ].
 ** (1)기술 blog
 *** 영상
 @@html:<video controls width="500" height="300" src="./misc/myblog.mp4"></video>@@
-*** 사용된 기술
+*** 사용된 기술 및 참고사항.
+- github: https://github.com/hoyoul/holy-brain
 - Emacs Lisp, org mode, css,html,js, d3.js
 - description: org mode에서 literate programming을 web까지
   확장. backlink의 구현.
@@ -25,21 +26,21 @@ Career path는 [ /_오른쪽 화살표_/ ].
 ** (2) web os wayland porting
 *** 영상
 @@html:<video controls width="500" height="300" src="./misc/wayland.mp4"></video>@@
-*** 사용된 기술
+*** 사용된 기술 및 참고사항.
 - c, arm assembly, wayland api, implemented on the vm. 
 - description: 기존의 x-window의 server & client 방식을 개선한
   wayland를 raspberry pi에 porting 성공.
 ** (3) 태양광 monitoring system
 *** 영상
 @@html:<video controls width="500" height="300" src="./misc/daeun.m4v"></video>@@
-*** 사용된 기술
+*** 사용된 기술 및 참고사항.
 - ruby, ruby on rails, css,html,js,chart.js, aws, mariadb
 - description: web으로 만든 태양광 monitoring system. 
   
 ** (4) K-water monitoring system
 *** 영상
 @@html:<video controls width="500" height="300" src="./misc/pnc.MOV"></video>@@
-*** 사용된 기술
+*** 사용된 기술 및 참고사항.
 - raspberry pi, iot system. ruby, ruby on rails, css,html,js,chart.js, aws, mariadb
 - description: 보여지는 영상은 IOT system 영상. 수압및 오염도를
   나타내는 sensor를 라즈베리파이에서 gpio controll로 제어. @@html:<br>@@ 이 정보를
