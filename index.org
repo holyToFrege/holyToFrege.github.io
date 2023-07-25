@@ -124,7 +124,7 @@ Career path는 [ /_오른쪽 화살표_/ ].
 않았습니다.@@html:<br>@@ 작년에는 최민석교수(현 경희대),
 박찬석교수(한서대)와 reinforcement learning과 @@html:<br>@@ machine learning 관련
 연구활동을 했습니다.@@html:<br>@@ 올해 초에는 bootstrap Kaist
-NPL과정을 수강했습니다. @@html:<br>@@ 현재 취업준비와 코딩테스트 준비,
+NLP과정을 수강했습니다. @@html:<br>@@ 현재 취업준비와 코딩테스트 준비,
 side project를 하고 있습니다.
 * 끝
 지금까지 봐주셔서 감사합니다.^^
