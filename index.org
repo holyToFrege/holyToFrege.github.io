@@ -1,17 +1,99 @@
-#+TITLE: this is reveal test
-#+AUTHOR:    hoyoul park
-#+EMAIL:     holy_frege@fastmail.com
-#+DATE: 
-
+#+TITLE: portfolio
+#+AUTHOR:    Park Hoyoul
+#+EMAIL: 박호열
+#+DATE: <2023-07-25 Tue>
 #+OPTIONS:  toc:nil  d:nil ^:nil num:nil
 #+REVEAL_INIT_OPTIONS: transition: 'linear'
-#+REVEAL_THEME: moon
+#+REVEAL_THEME: league
 #+REVEAL_TITLE_SLIDE: <h2>%t <br> <h4>%a(%e)
 #+REVEAL_ROOT:  https://cdn.jsdelivr.net/npm/reveal.js
 #+REVEAL_REVEAL_JS_VERSION:  4
-#+REVEAL_EXTRA_CSS: ./modifications.css
-* Reveal test
-Vestibulum convallis, lorem a tempus semper, dui dui euismod elit,
-vitae placerat urna tortor vitae lacus.
-* test2
-한국어 테스트 조조와 유비, 그리고 사마의 흴체어 머리
+#+REVEAL_EXTRA_CSS: ./css/modifications.css
+# black,white,league,beige,sky,night,serif,simple,solarized,blood,moon
+
+* career path & Projects
+Projects는 [ /_아래 화살표_/ ].
+Career path는 [ /_오른쪽 화살표_/ ].
+** (1)기술 blog
+*** 영상
+@@html:<video controls width="500" height="300" src="./misc/myblog.mp4"></video>@@
+*** 사용된 기술
+- Emacs Lisp, org mode, css,html,js, d3.js
+- description: org mode에서 literate programming을 web까지
+  확장. backlink의 구현.
+
+** (2) web os wayland porting
+*** 영상
+@@html:<video controls width="500" height="300" src="./misc/wayland.mp4"></video>@@
+*** 사용된 기술
+- c, arm assembly, wayland api, implemented on the vm. 
+- description: 기존의 x-window의 server & client 방식을 개선한
+  wayland를 raspberry pi에 porting 성공.
+** (3) 태양광 monitoring system
+*** 영상
+@@html:<video controls width="500" height="300" src="./misc/daeun.m4v"></video>@@
+*** 사용된 기술
+- ruby, ruby on rails, css,html,js,chart.js, aws, mariadb
+- description: web으로 만든 태양광 monitoring system. 
+  
+** (4) K-water monitoring system
+*** 영상
+@@html:<video controls width="500" height="300" src="./misc/pnc.MOV"></video>@@
+*** 사용된 기술
+- raspberry pi, iot system. ruby, ruby on rails, css,html,js,chart.js, aws, mariadb
+- description: 보여지는 영상은 IOT system 영상. 수압및 오염도를
+  나타내는 sensor를 라즈베리파이에서 gpio controll로 제어. 이 정보를
+  db에 저장하고 monitoring system도 만들었음.
+
+* 충남대 컴퓨터 공학과
+자세한 내용은 /아래 화살표/.
+** specification
+- 전공: 컴퓨터공학과
+- 했던일: computer engineering과 computer science의 기본기를 익힘.
+* Unversity of California, Irvine
+자세한 내용은 /아래 화살표/.
+** specification
+- 전공: computer science (master 과정)
+- 했던일: 1 quarter course work.
+- ps: 리먼 브라더스 사태로 돈이 다 날라감. 학비및 생활비 부족으로
+  UNM으로 이동
+* University of New Mexico
+자세한 내용은 /아래 화살표/.
+** specification
+- 전공: computer science 석사 (석박사과정 입학)
+- 했던일: 석박사 통합과정으로 입학, Terran Lane(현 Google)교수
+  연구실과 Jed(현 ASU교수) 연구실에서 일함. machine learning, Network
+  랩에서 연구.
+- ps: 석사만 받고 졸업.
+
+* 삼성전자 무선사업부
+자세한 내용은 /아래 화살표/.
+** specification
+- 직급: 공채 43기 입사, 선임연구원.
+- 했던일: 스마트폰에 들어가는 bsp(board support package)의 gpio
+  control, c언어와 assembly를 사용해서 api작성.
+  
+* LG전자 CTO(우면동 연구소), 선행 기술 연구소(가산동 연구소)
+자세한 내용은 /아래 화살표/.
+** specification
+- 직급: 책임연구원
+- 했던일: machine learning과 iot관련(webOS) 논문 research, 특허 작성및
+  prototype개발. google glass(Apple과 co-work).
+
+* 대은 (제주도)
+자세한 내용은 /아래 화살표/.
+** specification
+- 직급: 수석 연구원, full-stack 개발자.
+- 했던일: 태양광 모니터링 system 개발, 
+
+* P&C (제주도)
+자세한 내용은 /아래 화살표/.
+** specification
+- 직급: 연구실장, full-stack 개발자
+- 했던일: K-water 모니터링 system 개발. IOT와 web monitoring system
+  개발.
+* 기타
+자잘한 알바및 프리랜서 작업및 bootcamp참여, 강의등등은 기술하지 않음.
+* 끝
+지금까지 봐주셔서 감사합니다.^^
+
