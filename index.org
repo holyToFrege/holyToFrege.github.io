@@ -42,7 +42,7 @@ Career path는 [ /_오른쪽 화살표_/ ].
 *** 사용된 기술
 - raspberry pi, iot system. ruby, ruby on rails, css,html,js,chart.js, aws, mariadb
 - description: 보여지는 영상은 IOT system 영상. 수압및 오염도를
-  나타내는 sensor를 라즈베리파이에서 gpio controll로 제어. 이 정보를
+  나타내는 sensor를 라즈베리파이에서 gpio controll로 제어. @@html:<br>@@ 이 정보를
   db에 저장하고 monitoring system도 만들었음.
 
 * 충남대 컴퓨터 공학과
@@ -52,6 +52,12 @@ Career path는 [ /_오른쪽 화살표_/ ].
 - 했던일: computer engineering과 computer science의 기본기를 익힘.
 * Unversity of California, Irvine
 자세한 내용은 /아래 화살표/.
+** 증명서류
+#+CAPTION: uci -i20
+#+NAME: 
+#+attr_html: :width 400px
+#+attr_latex: :width 100px
+[[./misc/uci.png]]
 ** specification
 - 전공: computer science (master 과정)
 - 했던일: 1 quarter course work.
@@ -59,15 +65,27 @@ Career path는 [ /_오른쪽 화살표_/ ].
   UNM으로 이동
 * University of New Mexico
 자세한 내용은 /아래 화살표/.
+** 증명서류
+#+CAPTION: unm
+#+NAME: unm
+#+attr_html: :width 400px
+#+attr_latex: :width 100px
+[[./misc/unm.png]]
 ** specification
 - 전공: computer science 석사 (석박사과정 입학)
 - 했던일: 석박사 통합과정으로 입학, Terran Lane(현 Google)교수
-  연구실과 Jed(현 ASU교수) 연구실에서 일함. machine learning, Network
+  연구실과 Jed(현 ASU교수) 연구실에서 일함. @@html:<br>@@ machine learning, Network
   랩에서 연구.
 - ps: 석사만 받고 졸업.
 
 * 삼성전자 무선사업부
 자세한 내용은 /아래 화살표/.
+** 증명서류
+#+CAPTION: 삼성전자.
+#+NAME: unm
+#+attr_html: :width 400px
+#+attr_latex: :width 100px
+[[./misc/samsung.png]]
 ** specification
 - 직급: 공채 43기 입사, 선임연구원.
 - 했던일: 스마트폰에 들어가는 bsp(board support package)의 gpio
@@ -75,6 +93,13 @@ Career path는 [ /_오른쪽 화살표_/ ].
   
 * LG전자 CTO(우면동 연구소), 선행 기술 연구소(가산동 연구소)
 자세한 내용은 /아래 화살표/.
+** 증명서류
+#+CAPTION: LG전자.
+#+NAME: unm
+#+attr_html: :width 400px
+#+attr_latex: :width 100px
+[[./misc/lg.png]]
+
 ** specification
 - 직급: 책임연구원
 - 했던일: machine learning과 iot관련(webOS) 논문 research, 특허 작성및
@@ -93,7 +118,12 @@ Career path는 [ /_오른쪽 화살표_/ ].
 - 했던일: K-water 모니터링 system 개발. IOT와 web monitoring system
   개발.
 * 기타
-자잘한 알바및 프리랜서 작업및 bootcamp참여, 강의등등은 기술하지 않음.
+자잘한 알바및 프리랜서 작업 강의등등은 기술하지
+않았습니다.@@html:<br>@@ 작년에는 최민석교수(현 경희대),
+박찬석교수(한서대)와 reinforcement learning과 @@html:<br>@@ machine learning 관련
+연구활동을 했습니다.@@html:<br>@@ 올해 초에는 bootstrap Kaist
+NPL과정을 수강했습니다. @@html:<br>@@ 현재 취업준비와 코딩테스트 준비,
+side project를 하고 있습니다.
 * 끝
 지금까지 봐주셔서 감사합니다.^^
 
