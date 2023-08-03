@@ -105,7 +105,7 @@ Career path는 [ /_오른쪽 화살표_/ ].
 ** specification
 - 직급: 책임연구원
 - 했던일: machine learning과 iot관련(webOS) 논문 research, 특허 작성및
-  prototype개발. google glass(Apple과 co-work).
+  prototype개발. google glass( +Apple+ Google과 smart watch co-work).
 
 * 대은 (제주도)
 자세한 내용은 /아래 화살표/.
