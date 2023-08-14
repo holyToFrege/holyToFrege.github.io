@@ -120,6 +120,13 @@ Career path는 [ /_오른쪽 화살표_/ ].
 - 했던일: K-water 모니터링 system 개발. IOT와 web monitoring system
   개발.
 * 기타
+#+CAPTION: 자연어처리 전문과과정
+#+NAME: unm
+#+attr_html: :width 400px
+#+attr_latex: :width 100px
+[[./misc/natural_language.jpeg]]
+기타 내용은 /아래 화살표/.
+** etc
 자잘한 알바및 프리랜서 작업 강의등등은 기술하지
 않았습니다.@@html:<br>@@ 작년에는 최민석교수(현 경희대),
 박찬석교수(한서대)와 reinforcement learning과 @@html:<br>@@ machine learning 관련
