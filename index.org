@@ -1,6 +1,6 @@
 #+TITLE: portfolio
-#+AUTHOR:    Park Hoyoul
-#+EMAIL: 박호열
+#+AUTHOR: 박호열 
+#+EMAIL: hoyoul.park@gmail.com
 #+DATE: <2023-07-25 Tue>
 #+OPTIONS:  toc:nil  d:nil ^:nil num:nil
 #+REVEAL_INIT_OPTIONS: transition: 'linear'
@@ -46,6 +46,15 @@ Career path는 [ /_오른쪽 화살표_/ ].
 - description: 보여지는 영상은 IOT system 영상. 수압및 오염도를
   나타내는 sensor를 라즈베리파이에서 gpio controll로 제어. @@html:<br>@@ 이 정보를
   db에 저장하고 monitoring system도 만들었음.
+** (5) webtoon crawler
+*** 영상
+@@html:<video controls width="500" height="300" src="./misc/webtoondownloader.mp4"></video>@@
+*** 사용된 기술 및 참고사항.
+- nodejs,electron, python으로 만드는 crawler, web scrapy는 ui가 투박해서 electron을 사용했다.
+- description: 여기서 눈여겨 볼것은 session cookie의 사용으로 login을
+  처리한다는 점. 나머지는 일반적인 crawler다. portfolio에 올리긴
+  그렇지만, 개선에 나가야 할듯하다. 개발기간: crawler(1 day)+ ui(1.5 day)
+
 
 * 충남대 컴퓨터 공학과
 자세한 내용은 /아래 화살표/.
