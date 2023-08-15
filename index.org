@@ -11,6 +11,10 @@
 #+REVEAL_EXTRA_CSS: ./css/modifications.css
 # black,white,league,beige,sky,night,serif,simple,solarized,blood,moon
 
+* 양해
+제가 있던 속해 있던 회사에서는 비밀 서약을 했기 때문에 source유출 및
+제가 작업한 일체의 자료를 가져올 수 없었습니다. 따라서 portfolio에서
+보여지는 자료는 일부의 자료일 뿐입니다.
 * career path & Projects
 Projects는 [ /_아래 화살표_/ ].
 Career path는 [ /_오른쪽 화살표_/ ].
