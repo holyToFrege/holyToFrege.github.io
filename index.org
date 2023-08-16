@@ -55,7 +55,8 @@ Career path는 [ /_오른쪽 화살표_/ ].
 - nodejs,electron, python으로 만드는 crawler, web scrapy는 ui가 투박해서 electron을 사용했다.
 - description: 여기서 눈여겨 볼것은 session cookie의 사용으로 login을
   처리한다는 점. 나머지는 일반적인 crawler다. portfolio에 올리긴
-  그렇지만, 개선에 나가야 할듯하다. 개발기간: crawler(1 day)+ ui(1.5 day)
+  그렇지만, 개선해 나가야 할듯하다.
+- 개발기간: crawler(1 day)+ ui(1.5 day)
 
 
 * 충남대 컴퓨터 공학과
