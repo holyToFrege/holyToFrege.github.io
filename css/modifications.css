@@ -1,34 +1,61 @@
-.reveal pre {
-    font-size: 1em !important;
-    text-align: left;
+
+/* title section의 제목 설정 */
+.reveal h1 {
+    text-shadow: 0 10px 10px blue;
 }
-.section p {
-    line-height: 1.2em;
-    vertical-align: top;
-}
-.slides pre {
-    font-size: 1em !important;;
-}
-#sec-title-slide h1{
-   font-size: 1em !important;;
-}
-  /* slide 제목 크기 */
+/* 첫번째 section의 제목 설정 */
 .reveal h2 {
-  font-size: 1.5em;
-  /* color: #4CAF50; */
+    font-size: 1em;
+    color: beige
 }
-/* vertical slide 제목 크기 */
+/* vertical section의 제목설정 */
 .reveal h3 {
-  font-size: 1.2em;
-  /* color: #008CBA; */
+   font-size: .9em;
 }
-/* title slide 제목 크기 */
-#sec-title-slide h2 {
-  font-size: 2.0em;
-  color: #FFF484;
+.reveal ul {
+    font-size: .6em !important;;
+    color: #aadfaa
 }
-section p {
-    font-size: 20px;
-    color: #FFF484;
+.reveal p {
+    font-size: .6em !important;;    
+    line-height: 1.3em;
+    vertical-align: top;
+    color: #afaf7f
+ 
 }
+
+
+/* .reveal pre { */
+/*     font-size: 1em !important; */
+/*     text-align: left; */
+/* } */
+/* .section p { */
+/*     line-height: 1.2em; */
+/*     vertical-align: top; */
+/* } */
+/* .slides pre { */
+/*     font-size: 1em !important;; */
+/* } */
+/* #sec-title-slide h1{ */
+/*    font-size: 1em !important;; */
+/* } */
+/*   /\* slide 제목 크기 *\/ */
+/* .reveal h2 { */
+/*   font-size: 1.5em; */
+/*   /\* color: #4CAF50; *\/ */
+/* } */
+/* /\* vertical slide 제목 크기 *\/ */
+/* .reveal h3 { */
+/*   font-size: 1.3em; */
+/*   /\* color: #008CBA; *\/ */
+/* } */
+/* /\* title slide 제목 크기 *\/ */
+/* #sec-title-slide h2 { */
+/*   font-size: 2.0em; */
+/*   color: #FFF484; */
+/* } */
+/* section p { */
+/*     font-size: 20px; */
+/*     color: #FFF484; */
+/* } */
  
