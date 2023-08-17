@@ -20,11 +20,11 @@ Career path는 [ /_오른쪽 화살표_/ ].
 *** 영상
 @@html:<video controls width="500" height="300" src="./misc/myblog.mp4"></video>@@
 *** 사용된 기술 및 참고사항.
-- site: https://braindump.frege2godel.me/?stackedPages=%2F
-- github: https://github.com/hoyoul/holy-brain
-- Emacs Lisp, org mode, css,html,js, d3.js
-- description: org mode에서 literate programming을 web까지
-  확장. backlink의 구현.
+**** site : https://braindump.frege2godel.me/?stackedPages=%2F
+**** github : https://github.com/hoyoul/holy-brain
+**** 기술  : Emacs Lisp, org mode, css,html,js, d3.js
+**** description: org mode에서 literate programming을 web까지 확장. backlink의 구현.
+**** 참조: 자세한 설명은 [[https://braindump.frege2godel.me/?stackedPages=%2F%2C%2Fposts%2Findex.html%2C%2Fposts%2Fproject_about_tech_blog%2F][다음]] 을 참조
 
 ** (2) web os wayland porting
 *** 영상
@@ -33,12 +33,15 @@ Career path는 [ /_오른쪽 화살표_/ ].
 - c, arm assembly, wayland api, implemented on the vm. 
 - description: 기존의 x-window의 server & client 방식을 개선한
   wayland를 raspberry pi에 porting 성공.
+- 참조: 자세한 설명은 [[https://braindump.frege2godel.me/?stackedPages=%2F%2C%2Fposts%2Findex.html%2C%2Fposts%2Fproject_about_wayland%2F][다음]]을 참조.
+  
 ** (3) 태양광 monitoring system
 *** 영상
 @@html:<video controls width="500" height="300" src="./misc/daeun.m4v"></video>@@
 *** 사용된 기술 및 참고사항.
 - ruby, ruby on rails, css,html,js,chart.js, aws, mariadb
-- description: web으로 만든 태양광 monitoring system. 
+- description: web으로 만든 태양광 monitoring system.
+- 참조: 자세한 설명은 [[https://braindump.frege2godel.me/?stackedPages=%2F%2C%2Fposts%2Findex.html%2C%2Fposts%2Fproject_3_about_solar_monitoring_system%2F][다음]]을 참조
   
 ** (4) K-water monitoring system
 *** 영상
@@ -48,6 +51,7 @@ Career path는 [ /_오른쪽 화살표_/ ].
 - description: 보여지는 영상은 IOT system 영상. 수압및 오염도를
   나타내는 sensor를 라즈베리파이에서 gpio controll로 제어. @@html:<br>@@ 이 정보를
   db에 저장하고 monitoring system도 만들었음.
+- 참조: 자세한 설명은 [[https://braindump.frege2godel.me/?stackedPages=%2F%2C%2Fposts%2Findex.html%2C%2Fposts%2Fproject_4_about_k_smart_water%2F][다음]] 을 참조
 ** (5) webtoon crawler
 *** 영상
 @@html:<video controls width="500" height="300" src="./misc/webtoondownloader.mp4"></video>@@
