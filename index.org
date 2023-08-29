@@ -20,11 +20,11 @@ Career path는 [ /_오른쪽 화살표_/ ].
 *** 영상
 @@html:<video controls width="500" height="300" src="./misc/myblog.mp4"></video>@@
 *** 사용된 기술 및 참고사항.
-**** site : https://braindump.frege2godel.me/?stackedPages=%2F
-**** github : https://github.com/hoyoul/holy-brain
+**** site : [[https://bd.frege2godel.me/?stackedPages=%2F][여기]]
+**** github : [[https://github.com/hoyoul/holy-brain][여기]]
 **** 기술  : Emacs Lisp, org mode, css,html,js, d3.js
 **** description: org mode에서 literate programming을 web까지 확장. backlink의 구현.
-**** 참조: 자세한 설명은 [[https://braindump.frege2godel.me/?stackedPages=%2F%2C%2Fposts%2Findex.html%2C%2Fposts%2Fproject_about_tech_blog%2F][다음]] 을 참조
+**** 참조: 자세한 설명은 [[https://bd.frege2godel.me/?stackedPages=%2F%2C%2Fposts%2Findex.html%2C%2Fposts%2Fproject_about_tech_blog%2F][다음]]을 참조
 
 ** (2) web os wayland porting
 *** 영상
@@ -33,25 +33,29 @@ Career path는 [ /_오른쪽 화살표_/ ].
 - c, arm assembly, wayland api, implemented on the vm. 
 - description: 기존의 x-window의 server & client 방식을 개선한
   wayland를 raspberry pi에 porting 성공.
-- 참조: 자세한 설명은 [[https://braindump.frege2godel.me/?stackedPages=%2F%2C%2Fposts%2Findex.html%2C%2Fposts%2Fproject_about_wayland%2F][다음]]을 참조.
+- 참조: 자세한 설명은 [[https://bd.frege2godel.me/?stackedPages=%2F%2C%2Fposts%2Findex.html%2C%2Fposts%2Fproject_about_wayland%2F][다음]] 참조.
   
 ** (3) 태양광 monitoring system
 *** 영상
 @@html:<video controls width="500" height="300" src="./misc/daeun.m4v"></video>@@
 *** 사용된 기술 및 참고사항.
-- ruby, ruby on rails, css,html,js,chart.js, aws, mariadb
+- front-end: python, ruby, vue, css,html,js,chart.js,
+- back-end: ruby on rails, django(DRF), aws,nginx, mariadb
 - description: web으로 만든 태양광 monitoring system.
-- 참조: 자세한 설명은 [[https://braindump.frege2godel.me/?stackedPages=%2F%2C%2Fposts%2Findex.html%2C%2Fposts%2Fproject_3_about_solar_monitoring_system%2F][다음]]을 참조
+- 참조: 자세한 설명은 [[https://bd.frege2godel.me/?stackedPages=%2F%2C%2Fposts%2Findex.html%2C%2Fposts%2Fproject_3_about_solar_monitoring_system%2F][다음]]을 참조
   
 ** (4) K-water monitoring system
 *** 영상
 @@html:<video controls width="500" height="300" src="./misc/pnc.MOV"></video>@@
 *** 사용된 기술 및 참고사항.
-- raspberry pi, iot system. ruby, ruby on rails, css,html,js,chart.js, aws, mariadb
+- system: raspberry pi, iot system,MQTT
+- front-end: ruby, css,html,js,chart.js,
+- back-end: ruby on rails, nodejs(rest api),aws,nginx,mariadb
 - description: 보여지는 영상은 IOT system 영상. 수압및 오염도를
-  나타내는 sensor를 라즈베리파이에서 gpio controll로 제어. @@html:<br>@@ 이 정보를
-  db에 저장하고 monitoring system도 만들었음.
-- 참조: 자세한 설명은 [[https://braindump.frege2godel.me/?stackedPages=%2F%2C%2Fposts%2Findex.html%2C%2Fposts%2Fproject_4_about_k_smart_water%2F][다음]] 을 참조
+  나타내는 sensor를 라즈베리파이에서 gpio controll로
+  제어. @@html:<br>@@ 이 정보를 db에 저장하고 monitoring system도
+  만들었음. 하지만 지금, 자료 영상은 가지고 있지 않습니다.
+- 참조: 자세한 설명은 [[https://bd.frege2godel.me/?stackedPages=%2F%2C%2Fposts%2Findex.html%2C%2Fposts%2Fproject_4_about_k_smart_water%2F][다음]]을 참조
 ** (5) webtoon crawler
 *** 영상
 @@html:<video controls width="500" height="300" src="./misc/webtoondownloader.mp4"></video>@@
@@ -150,11 +154,13 @@ Career path는 [ /_오른쪽 화살표_/ ].
 [[./misc/fastcampus.png]]
 ** etc
 자잘한 알바및 프리랜서 작업 강의등등은 기술하지
-않았습니다.@@html:<br>@@ 최민석교수(현 경희대),
-박찬석교수(한서대)와 reinforcement learning과 @@html:<br>@@ machine learning 관련
+않았습니다.@@html:<br>@@ 최민석교수(현 경희대), 박찬석교수(한서대)와
+reinforcement learning과 @@html:<br>@@ machine learning 관련
 연구활동을 했습니다.@@html:<br>@@ 올해 초에는 bootstrap Kaist
-NLP과정을 수강했습니다. @@html:<br>@@ 현재 취업준비와 코딩테스트 준비,
-side project를 하고 있습니다.
+NLP과정과, fastcampus의 웹개발 과정인 React와 React.native를
+수강했습니다. @@html:<br>@@ 현재 dart와 flutter를 공부하면서 취업준비
+중입니다.
+
 * 끝
 지금까지 봐주셔서 감사합니다.^^
 
