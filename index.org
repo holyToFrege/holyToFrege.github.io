@@ -11,7 +11,7 @@
 #+REVEAL_EXTRA_CSS: ./css/modifications.css
 
 * 양해
-비밀 서약으로 인해, portfolio에서 보여지는 자료는 제한적입니다.
+비밀 서약으로 인해, portfolio에서 보여지는 자료는 제한적입니다.-test
 
 * career path & Projects
 Projects는 [ /_아래 화살표_/ ].
